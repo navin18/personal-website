@@ -1,3 +1,3 @@
-# briOS
+# Navin's Journey
 
-Welcome to my website. 
+Welcome to my website, inspired by Brian Lovin :)
